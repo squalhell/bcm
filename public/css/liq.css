@@ -1,0 +1,68 @@
+00@charset "utf-8";
+/* CSS Document */
+html, body 
+{ 
+	height: 100%; 
+	margin:0px;
+
+}
+#mainscreen
+{
+	height: 100%;
+	vertical-align: super;
+	background-image: url(../img/cell.gif);
+}
+
+#header
+{
+	height: 77px;
+	margin-bottom: 1px;
+	background-image: url(../img/top_bk.png);
+}
+
+#nav
+{
+	float: right;
+	width: 200px;
+	height: 100%;
+	margin-left: 5px;
+}
+
+#content
+{
+	width: 100%;
+	margin-bottom: 5px;
+	height: 70%;
+}
+
+#footer
+{
+	clear: both;
+	height: 15px;
+	background-color: #000;
+	position: absolute;
+	width: 100%;
+}
+.Title_01 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #CCC;
+}
+.prsnal {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	color: #CCC;
+}
+
+.Sub_Title_01 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #999;
+	background-color: #000;
+}
+#footerx {
+	height: 15px;
+	background-color: #000;
+	position: static;
+	width: 1013px;
+}

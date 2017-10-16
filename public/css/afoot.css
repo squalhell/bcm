@@ -1,0 +1,554 @@
+#vc-main{
+	height:auto;
+	min-height:98%;
+	position:relative;
+}
+#vc-header{
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+#vc-body{
+	padding-bottom:0px;
+	vertical-align: middle;
+} /* Height of the footer */
+#vc-body2{
+	vertical-align: middle;
+	min-height:100%;
+} 
+#vc-footer{
+	position:fixed;
+	bottom:0;
+	width:100%;
+	height:30px;
+}
+p, h1{padding:10px; margin:0;}
+#nav
+{
+	float: right;
+	width: 200px;
+	height: 100%;
+	margin-left: 5px;
+}
+#nav
+{
+	float: right;
+	width: 200px;
+	height: 100%;
+	margin-left: 5px;
+}
+.Title_01 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #CCC;
+}
+.prsnal {
+	font-family: Verdana, Geneva, sans-serif !important;
+	font-size: 10px !important;
+	color: #CCC !important;
+}
+
+.Sub_Title_01 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #999;
+	background-color: #000;
+	vertical-align: middle;
+}
+.Title02 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #333;
+	border-left-width: 2px;
+	color: #CCC;
+	border-color: #666;
+}
+.Title044 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	background-color: #CCC;
+	border-left-width: 0px;
+	color: #000;
+	border-color: #CCC;
+	border-bottom: 0px;
+	border-top: 0px;
+	border-right: 0px;
+}
+.Title055 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	background-color: #CCC;
+	border-left-width: 0px;
+	color: #000;
+	border-color: #CCC;
+	border-bottom: 0px;
+	border-top: 0px;
+	border-right: 0px;
+	padding: 0px;
+}
+
+
+.prsnal_just {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 9px;
+	color: #CCC;
+	text-align: justify;
+}
+.prsnal_red {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	color: #FFF;
+	font-weight: bolder;
+}
+.prsnal_red2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	color: #F00;
+	font-weight: bolder;
+}
+
+.Button01 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #CCC;
+	background-color: #333;
+	border: 1px 1 #D53124;
+	border-bottom-color: #333;
+	border-width: 3px;
+}
+.Button02 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #CCC;
+	background-color: #333;
+	border: 1px 1 #D53124;
+	border-bottom-color: #333;
+}
+.sub_title {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #333;
+}
+.fields {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333;
+	background-color: #CCC;
+}
+.fields_mod {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333;
+	background-color: #FFF;
+}
+.sub_title2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #333;
+	border: 1;
+}
+.sub_title3 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #ABABAB;
+	background-color: #333;
+}
+.sub_tabs {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #333;
+}
+.prsnal_just_pen {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 9px;
+	color: #0CC;
+	text-align: justify;
+}
+.prsnal_just_ven {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 9px;
+	color: #F9C;
+	text-align: justify;
+}
+.Button03 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #000;
+	border: 1px 1 #D53124;
+	border-bottom-color: #333;
+}
+.Title03 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #666;
+	border-left-width: 2px;
+	color: #CCC;
+	border-color: #666;
+}
+.Title02-2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	background-color: #666;
+	color: #CCC;
+	border-color: #666;
+	text-align: center;
+	border: 0;
+}
+.fields_a {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #333;
+	background-color: #CCC;
+	font-weight: bold;
+	border: 0;
+	padding: 10;
+}
+.Title0222 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	background-color: #333;
+	border-left-width: 2px;
+	color: #CCC;
+	border-color: #333;
+}
+.Sub_Title_02 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+	background-color: #900;
+	vertical-align: left;
+	text-align: left;
+}
+.sub_title_big {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	color: #666;
+}
+.Title02-3 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	background-color: #333;
+	color: #FFF;
+	border-color: #666;
+	text-align: center;
+	border: 0;
+}
+.Button04 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #000;
+	border: 1px 1 #D53124;
+	border-bottom-color: #333;
+	text-align: center;
+}
+.sub_title_mega {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333;
+	text-align: justify;
+}
+.sub_title_D {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #333;
+}
+.sub_title4 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #CCC;
+	text-align: center;
+	background-color: #666;
+}
+.prsnal_just_red {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 9px;
+	color: #FF5B5B;
+	text-align: left;
+}
+.sub_title_big2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 26px;
+	font-weight: bold;
+	color: #CCC;
+	text-align: center;
+}
+.Button022 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #CCC;
+	background-color: #484848;
+	border-bottom-color: #333;
+}
+.sub_title_big3 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+}
+.sub_title_big4 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+}
+
+.sub_title4-P {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #CCC;
+	text-align: center;
+	background-color: #666;
+}
+.sub_tabs_msg {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #333;
+}
+.prsnal_mini {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	color: #CCC;
+	text-transform: lowercase;
+}
+.prsnal_mini333 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	color: #CCC;
+	text-transform: uppercase;
+}
+
+.prsnal_mini2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	color: #CCC;
+	text-transform: lowercase;
+}
+
+.prsnal_mini2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	color: #000;
+	text-transform: lowercase;
+}
+.Sub_Title_04 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+	background-color: #336;
+	vertical-align: middle;
+	text-align: left;
+}
+.sub_title_mega2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #333;
+	text-align: justify;
+	font-variant: small-caps;
+	background-color: #CCC;
+}
+
+.stylish_grave {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #FFF;
+	background-color: #CCC;
+	padding: 0px;
+}
+.stylish_groon {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 190px;
+	color: #8F8F8F;
+	padding: 0px;
+	vertical-align: baseline;
+}
+.stylish_graverx {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #8F8F8F;
+	padding: 0px;
+	font-weight: bolder;
+}
+.stylish_groonie {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 70px;
+	color: #8F8F8F;
+	padding: 0px;
+	vertical-align: baseline;
+}
+.stylish_groonie2 {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 50px;
+	color: #FFF;
+	padding: 0px;
+	vertical-align: top;
+}
+
+.stylish_groonier {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #8F8F8F;
+	padding: 0px;
+	vertical-align: baseline;
+	font-weight: bold;
+}
+.stylish_gravep {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333;
+	background-color: #CCC;
+	padding: 5px;
+}
+.stylish_graverx_r {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #C00;
+	padding: 0px;
+	font-weight: bolder;
+}
+.stylish_graverx_b {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333;
+	padding: 0px;
+	font-weight: bolder;
+}
+.main_fitz {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+	background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+
+
+
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+	background-color:#ededed;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #666666;
+	display:inline-block;
+	color:#333333;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #ffffff;
+	padding: 1px;
+	margin: 2px;
+}.main_fitz:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+	background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+	background-color:#dfdfdf;
+}.main_fitz:active {
+	position:relative;
+	top:1px;
+}
+
+.main_fitz2 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+	background:-moz-linear-gradient( center top, #ededed 5%, #dddddd 100% );
+
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+	background-color:#FFF;
+	-moz-border-radius:12px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#333;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:16px;
+	font-weight:bold;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #ffffff;
+	padding-top: 0px;
+}.main_fitz2:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+	background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+	background-color:#666;
+}
+.sub_tabs_no {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #333;
+	background-color: #CCC;
+}
+.main_fitz3 {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+	background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+
+
+
+
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+	background-color:#666;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#FFF;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #ffffff;
+	padding: 0px;
+	margin: 0px;
+}
+.main_fitz3:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+	background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+
+
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+	background-color:#CCC;
+}
+.main_fitz3:active {
+	position:relative;
+	top:1px;
+}
+.sub_tabs_no2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #900;
+}

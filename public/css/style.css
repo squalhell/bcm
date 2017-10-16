@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+html,body{margin:0; padding:0; height:100%; vertical-align:middle;}
+
+
+
+tr.row_selected td{ background-color: #DFF0D8 !important; }
+td.col_selected { background-color: #DFF0D8 !important; }
+
+.table-col-viñeta {
+    height: 26px;
+    vertical-align: top;
+    background-color: #666666;
+}
+
+.table-col-Default {
+    vertical-align: top;
+    background-color: #FFFFFF;
+}
+
+.table-col-button {
+    text-align: center;
+    vertical-align: top;
+    background-color: #666666;
+}
+
+.table-col-gasfiter {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #333;
+    background-color: #CCCCCC;
+    text-align: center;
+}
+
+.popup {
+    display: none;
+	position:fixed;
+	width:100%;
+	height:100%;
+	z-index:1;
+	left: 0;
+	top: 0;
+	background:url(../img/a_00.png);
+}
+
+.popup2 {
+    display: block;
+    position:fixed;
+    width:100%;
+    height:100%;
+    z-index:1;
+    left: 0;
+    top: 0;
+    background:url(../img/a_00.png);
+}
+
+a { color: #555; }
+
+#mssg {
+    position:absolute;
+    width:526px;
+    height:239px;
+    z-index:1;
+    left: 267px;
+    top: 190px;
+}
+#apDiv1 {
+    position:absolute;
+    width:100%;
+    height:100%;
+    z-index:1;
+    background:url(../img/a_00.png)
+}
+
+body {
+    background-image: url(../img/walle.jpg);
+    /* cursor : url("find.cur"); */
+}
+
+.login_username, .login_password{
+    border: 1px solid #777;
+    border-radius: 4px;
+    padding: 3px 4px;
+}
+.login_username:hover, .login_password:hover{
+	border: 1px solid #444;
+}
